@@ -1,0 +1,12 @@
+Problem Statement :
+1) 
+
+SInce Illegal Dealers were propping out in every corner of a business establishment 
+We are organizing data about Dealers,for a Business chain,  in a system where list of Dealers data is to be stored
+But the Order is something like this, the Main Dealer of the state is in the capital city  who maintains the detail about the next
+Dealer adjacent to his District and so on
+which means when we search for a particular "Dealer" we have to start from the Capital and search for adjacent districts for the dealers
+based on this set up
+simulate the system using appropriate DataStructures for a state, which canbe replicated for the other states too...
+we should be able to add/delete/update any dealer any time
+Analyse the Situation and solve by applying the right Structure

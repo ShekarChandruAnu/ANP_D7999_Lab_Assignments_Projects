@@ -1,0 +1,24 @@
+Problem 6 -- 06 Nov 2026 Lab Week 03 Assignment
+
+Lab Wk 3 Assignment 01
+Add child as Date to a Span element in a page
+VS
+Add Elements Dynamically to a Page in a situation like Railway Reservation system
+when Customers book ticket for example, based on the number of tickets
+equivalent number of TextBoxes have to be dynamically loaded on to the Page
+Use DOM Demo for reference
+
+Lab Wk 3 Assignment 02
+In the above situation, we want to bind the eventhandlers to the click event of the Submit button
+Add the logic to add Event Handlers
+Use EventHandler Demo for Reference
+
+Lab Wk 3 Assignment 03
+We need to create a Form for Railway Reservation system
+taking all Passenger Details like
+Name, Address, age, Gender, NoOfTickets,Destination/Source,DateOfJourney,Occupation
+the data collected needs to captured for the processing to be carried out using JS
+generate the logic
+Apply apts Input validations like Required/Do apt event handling/Do apt usage of external JS for processing
+Use apt controls
+Use Reservation Demo for Reference

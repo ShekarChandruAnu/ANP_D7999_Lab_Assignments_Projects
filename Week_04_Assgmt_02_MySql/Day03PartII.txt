@@ -1,0 +1,61 @@
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Part II
+
+16)Execute the 15th Question using Join
+
+17) Execute the 14the query using Join
+
+18) Fetch the details about the Externalcandidates whose sitestscore is greater than  any of the  scores(92,86,85,84)Hint: use subqueries use any
+
+19) Fetch the details about the Externalcandidates whose sitestscore is greater than every score in (92,86,85,84) Hint use all use subquery
+
+20) Using Left Outer join fetch the details of all employee details and corresponding skills 
+
+21) Create three tables 
+a) Males VoterList-VoterId,VoterName,Age,Address
+b)FemaleVoterList-VoterId,VoterName,Age,Address
+insert sample records
+create a query to merge these two table data and view them :hint use union
+
+22)Create a query  which enables us to fetch all Books which belong to same category(Use Self join)
+Table:create sample record s as follows
+BookId BookTitle Price Category
+B1         XUZ          200     Comedy
+B2         XUZ          300     Tragedy
+B3         XUZ          400     Comedy
+B4         XUZ         500     Drama
+B5         XUZ          600     Drama
+B6        XUZ         700     Tragedy
+B7        XUZ         500     Drama
+B8        XUZ          600     SciFi
+B9       XUZ         700     Tragedy
+
+23) Create a query which enables one to fetch the details of the Ministers who hail from same cities
+for those ministers find the  annual cost incurred by the govt use the sample tables as follows
+use Self join and Subqueries
+MinisterTable			CostTable
+MinId MinName MinCity      CostId MinId CostinCrores
+
+24) Create  a view which enables one to fetch the sitestscore for a person -externalcandidate, his state,city and zip from externalcandidate and corresponding to him fetch details like DepartMent and  department head details from department table - use joins within a view
+
+25)Create  a view which enables one to fetch the sitestscore for a person -externalcandidate, his state,city and zip from externalcandidate and corresponding to him fetch details like Position Description, CurrentStrength in that position from position table - use joins within a view
+
+
+26)Alter the view that you created in Q25 so that the details fetched are Externalcandidate details specified in Q25 and Employee Skill details like  from Employee skill table
+
+27) Alter the view that you created in Q 24 and make it fetch the details of externalcandidate specified in Q24 and fetch the corresponding salary details from monthlysalary table.
+
+28) Create a view for the sample tables you created earlier say for Employee & Salary table merging details like EmployeeName,Address and Nettsalary
+
+29) Update the details for both the underlying tables and see the effect
+
+30) Drop the View after creating another view for the above related activity in q No.30
+
+
+
+
+
+
+
+
